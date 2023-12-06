@@ -1,11 +1,18 @@
 # example
 ![example](https://github.com/Mng12345/water_ball/blob/main/examples/mnggiflab-compressed-from-screen-recorder-2023_12_0610_25_51.gif)
-# example, see the code in directory `examples`
+
+### install
+
+```bash 
+npm install @mng12345/water_ball
+```
+### example
+see the code in directory `examples`
 
 ```js
 // @ts-check
 
-const waterball = require('waterball');
+const waterball = require('@mng12345/water_ball');
 
 main()
 
