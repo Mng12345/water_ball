@@ -2,7 +2,6 @@
 
 const waterball = require('../dist/index.js');
 
-console.log(`fuck`)
 main()
 
 function main() {

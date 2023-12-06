@@ -1,13 +1,12 @@
 # example
 ![example](https://github.com/Mng12345/water_ball/blob/main/examples/mnggiflab-compressed-from-screen-recorder-2023_12_0610_25_51.gif)
-# code see example in `examples`
+# example, see the code in directory `examples`
 
 ```js
 // @ts-check
 
-const waterball = require('../dist/index.js');
+const waterball = require('waterball');
 
-console.log(`fuck`)
 main()
 
 function main() {
